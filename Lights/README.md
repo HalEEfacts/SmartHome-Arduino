@@ -2,7 +2,7 @@
 
 
 ## RGB Strip
-
+[Demo](/ws2812Strip.png)
 Wire power separate - see https://github.com/FastLED/FastLED/wiki/Wiring-leds
 
 ###.ino
