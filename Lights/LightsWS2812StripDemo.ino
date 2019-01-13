@@ -2,6 +2,7 @@
 
 FASTLED_USING_NAMESPACE
 
+// From Arduino FastLED examples : DemoReel100
 // FastLED "100-lines-of-code" demo reel, showing just a few 
 // of the kinds of animation patterns you can quickly and easily 
 // compose using FastLED.  
