@@ -5,7 +5,15 @@
 ![Demo](/Lights/ws2812Strip.png)
 Wire power separate - see https://github.com/FastLED/FastLED/wiki/Wiring-leds
 
-###.ino
+###.inos
+
+1. LightsWS2812StripDemo.ino - demo of multiple things. Rainbow, flashes, etc.
+2.
+3.
+
+
+
+
 Pins - see https://github.com/FastLED/FastLED/wiki/ESP8266-notes
 
 
