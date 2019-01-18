@@ -8,7 +8,7 @@ Wire power separate - see https://github.com/FastLED/FastLED/wiki/Wiring-leds
 ###.inos
 
 1. LightsWS2812StripDemo.ino - demo of multiple things. Rainbow, flashes, etc.
-2.
+2. ESP-MQTT-JSON-Digital-LEDs.ino - bruh https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs
 3.
 
 
