@@ -10,8 +10,3 @@ https://esphomelib.com/esphomeyaml/cookbook/pir.html
 ###.inos
 
 1. 
-
-
-
-
-Pins - see https://github.com/FastLED/FastLED/wiki/ESP8266-notes
